@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jardson_costa</string>
+    <string name="value_hint">0</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Resultado</string>
+    <string name="send">Enviar</string>
+</resources>
